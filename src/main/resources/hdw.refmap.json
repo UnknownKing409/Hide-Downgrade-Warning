@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "hdw/mixin/WorldOpenWarningMixin": {
+      "getConversionWarning": "Lnet/minecraft/class_34;method_33405()Lnet/minecraft/class_34$class_5781;",
+      "isVersionAvailable": "Lnet/minecraft/class_34;method_38496()Z",
+      "shouldPromptBackup": "Lnet/minecraft/class_34;method_54549()Z",
+      "wouldBeDowngraded": "Lnet/minecraft/class_34;method_54550()Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "hdw/mixin/WorldOpenWarningMixin": {
+        "getConversionWarning": "Lnet/minecraft/class_34;method_33405()Lnet/minecraft/class_34$class_5781;",
+        "isVersionAvailable": "Lnet/minecraft/class_34;method_38496()Z",
+        "shouldPromptBackup": "Lnet/minecraft/class_34;method_54549()Z",
+        "wouldBeDowngraded": "Lnet/minecraft/class_34;method_54550()Z"
+      }
+    }
+  }
+}

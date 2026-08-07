@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "hide-downgrade-warning",
+	"version": "${version}",
+	"name": "Hide Downgrade Warning",
+	"description": "Hides (Downgrading a world is not supported) warning when opening worlds saved in newer version of Minecraft",
+	"authors": [
+		"UnknownKing"
+	],
+	"contact": {
+		"sources": "https://github.com/UnknownKing409/Hide-Downgrade-Warning"
+	},
+	"license": "MIT",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {},
+	"mixins": [
+		"hdw.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": ">=1.14",
+		"java": ">=8"
+	}
+}

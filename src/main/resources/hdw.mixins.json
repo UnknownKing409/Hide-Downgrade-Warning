@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.unknownking.hdw",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"WorldOpenWarningMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
